@@ -1,0 +1,8 @@
+{
+  "name": "Galapy Game",
+  "short_name": "Galapy",
+  "start_url": "GALAPY%20(1).html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000"
+}
